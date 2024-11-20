@@ -4,7 +4,7 @@
 
 ## About Me  
 - 🏫 **Student** at Assiut STEM School.  
-- 📖 Currently studying in the **DECI Initiative**, where I'm expanding my knowledge and skills in advanced fields.  
+- 📖 Currently enrolled in the **DECI Initiative LEVEL 4 (CyberSecurity)**, where I'm expanding my knowledge and skills in advanced fields.  
 - 💻 Passionate about technology, with a particular interest in **programming** and exploring the exciting world of **cybersecurity**.  
 
 ## Interests  
